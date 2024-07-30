@@ -4,13 +4,17 @@
     box-sizing: border-box;
 }
 
-
-body {
+h1{
+  background-color: #f4f4f9;
+  text-align: center;
+  font-family: cursive;
+}
+header{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    padding-bottom:62px;
     background-color: #f4f4f9;
 }
 
